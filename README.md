@@ -1,7 +1,7 @@
 # COVID-19-Comparison-using-Pie-Charts
 COVID-19 Comparison at global level vs local level, using Pie Charts
 
-Jupyter Notebook Created by Shardav Bhatt
+Jupyter Notebook Created by (c) Shardav Bhatt on 13 May 2020
 
 Data (as on 13 May 2020) References:
 
